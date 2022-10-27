@@ -1,0 +1,24 @@
+.vscode
+*/.vscode
+a.out
+*/a.out
+
+.vscode
+*/.vscode
+
+# ignore for pdflatex 
+*.log
+*.fls
+*.out
+*.synctex.gz
+*.toc
+*.aux
+*.fdb_latexmk
+*.bbl
+*.blg
+
+.kate-swp
+.run.xml
+.bcf
+
+*.dat
