@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 ##
-# @file aufgabe2a.py
+# @file 2a.py
 # @brief implement factorial in different ways and compare the performance
 
 import time
