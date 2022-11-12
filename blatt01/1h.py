@@ -3,6 +3,7 @@
 ##
 # @file 1h.py
 # @brief calculate the cross product of two vectors
+# @author aurel mueller-schoenau and leon oleschko
 
 import math
 import itertools

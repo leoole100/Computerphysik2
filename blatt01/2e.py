@@ -3,6 +3,7 @@
 ##
 # @file 2e.py
 # @brief find how many coins it takes on average so the sum is 1 ... 99 cents
+# @author aurel mueller-schoenau and leon oleschko
 
 coins = [50,20,10,5,2,1]
 

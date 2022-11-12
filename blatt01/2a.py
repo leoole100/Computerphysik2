@@ -3,6 +3,7 @@
 ##
 # @file 2a.py
 # @brief implement factorial in different ways and compare the performance
+# @author aurel mueller-schoenau and leon oleschko
 
 import time
 import math

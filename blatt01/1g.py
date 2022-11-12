@@ -3,6 +3,7 @@
 ##
 # @file 1g.py
 # @brief calculate norm of a vector and the normalized vector
+# @author aurel mueller-schoenau and leon oleschko
 
 import math
 

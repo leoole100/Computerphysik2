@@ -3,6 +3,7 @@
 ##
 # @file 1b.py
 # @brief return the numbers 1 through 42, once using a for loop and once using a while loop
+# @author aurel mueller-schoenau and leon oleschko
 
 def count_for(n):
     for i in range(1,n+1):

@@ -3,6 +3,7 @@
 ##
 # @file 1f.py
 # @brief convert complex numbers between polar and cartesian form
+# @author aurel mueller-schoenau and leon oleschko
 
 import math
 

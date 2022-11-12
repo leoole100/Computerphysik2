@@ -3,6 +3,7 @@
 ##
 # @file 2b.py
 # @brief calculate and print pascals triangle
+# @author aurel mueller-schoenau and leon oleschko
 
 def pascal_row(old_row, n):
     if n==0:

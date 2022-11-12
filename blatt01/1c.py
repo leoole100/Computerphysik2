@@ -3,6 +3,7 @@
 ##
 # @file 1c.py
 # @brief print a table containing temperatures from 1 to 100 degree celsius and the corresponding fahrenheit value
+# @author aurel mueller-schoenau and leon oleschko
 
 def degree_to_fahrenheit(T):
     return 9*T/5 + 32

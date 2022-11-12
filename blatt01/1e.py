@@ -3,6 +3,7 @@
 ##
 # @file 1e.py
 # @brief find out whether a given number is prime
+# @author aurel mueller-schoenau and leon oleschko
 
 def is_prime(n):
     prime = True

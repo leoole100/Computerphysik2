@@ -3,6 +3,7 @@
 ##
 # @file 1i.py
 # @brief calculate the determinant of a 2x2 matrix. use it to calculate the determinant of an NxN matrix
+# @author aurel mueller-schoenau and leon oleschko
 
 import random
 
